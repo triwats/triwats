@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
-Currently working on:
-https://probe.bike - bring your cycling trips to life with data. Translate them into metrics everyone understands.
-https://flopper.io - The AI focused GPU database. See FLOPS and power all in one place.
-```
+**Currently working on:**
+- https://probe.bike - bring your cycling trips to life with data. Translate them into metrics everyone understands.
+- https://flopper.io - The AI focused GPU database. See FLOPS and power all in one place.
