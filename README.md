@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 **Currently working on:**
+- https://llmstxt.studio - generate and maintain your llms.txt to enhance your AI SEO for your website
 - https://probe.bike - bring your cycling trips to life with data. Translate them into metrics everyone understands.
 - https://flopper.io - The AI focused GPU database. See FLOPS and power all in one place.
